@@ -166,9 +166,9 @@ hi def link elixirComment                Comment
 hi def link elixirTodo                   Todo
 hi def link elixirKeyword                Keyword
 hi def link elixirOperator               Operator
-hi def link elixirAtom                   Constant
+hi def link elixirAtom                   String
 hi def link elixirPseudoVariable         Constant
-hi def link elixirAlias                  Type
+hi def link elixirAlias                  Label
 hi def link elixirBoolean                Boolean
 hi def link elixirVariable               Identifier
 hi def link elixirSelf                   Identifier
